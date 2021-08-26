@@ -4,9 +4,9 @@ class ShoppingList extends React.Component {
       <div className="shopping-list">
         <h1>Shopping List for {this.props.name}</h1>
         <ul>
-          <li>Instagram</li>
-          <li>WhatsApp</li>
-          <li>Oculus</li>
+          <li>From JS - Instagram</li>
+          <li>From JS - WhatsApp</li>
+          <li>From JS - Oculus</li>
         </ul>
       </div>
     );
